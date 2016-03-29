@@ -31,6 +31,6 @@ example：
 
 效果：
 ---
-![demo1](demo/f1.jpg)
-![demo2](demo/f2.jpg)
-![demo3](demo/f3.jpg)
+![demo1](demo/dict_1.jpg)<br>
+![demo2](demo/dict_2.jpg)
+
