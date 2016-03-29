@@ -27,7 +27,7 @@ INSTALLED_APPS = (
 example：
 ---
 字典：学年 字典编码：cadeYear 字典值：2011-2011 2011-2012 2012-2013 <br>
-调用：{% DictSelect dictcode='cadeYear' value='2011-2012' %}<br>
+调用：{% DictSelect dictcode='cadeYear' id='s01' name='s02' %}<br>
 
 效果：
 ---
